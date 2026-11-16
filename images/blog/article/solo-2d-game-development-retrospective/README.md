@@ -1,9 +1,9 @@
 # 혼자 만든 2D 게임, 엔진에서 콘텐츠 에디터까지
 
-아티클 `/solo-2d-game-development-retrospective/`에서 사용할 스크린샷 40장이다.
+아티클 `/solo-2d-game-development-retrospective/`에서 사용할 스크린샷 48장이다.
 
 - `initial/`: 초기 2D 게임 10장.
-- `advanced/`: 고도화된 게임과 World Studio 30장.
+- `advanced/`: 고도화된 게임과 World Studio 38장.
 - 원본 PNG를 재압축·크기 변경 없이 보존했다. 파일 끝의 10자리 문자열은 원본 SHA-256 일부다.
 - Blog Writer의 이미지 에셋에서 폴더를 선택하거나 `village`, `combat`, `quest`, `inventory`, `world-studio` 등으로 검색한다. 이미지를 누르면 공개 URL이 복사된다.
 - 아래 Markdown을 복사해서 아티클에 붙여 넣을 수 있다.
@@ -92,3 +92,11 @@
 | --- | --- |
 | [World Studio 타일 팔레트와 맵 편집 화면](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/01-tile-palette-and-map-5e05130972.png) | `![World Studio 타일 팔레트와 맵 편집 화면](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/01-tile-palette-and-map-5e05130972.png)` |
 | [World Studio에서 여러 오브젝트 선택](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/02-object-multi-selection-4b2273c400.png) | `![World Studio에서 여러 오브젝트 선택](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/02-object-multi-selection-4b2273c400.png)` |
+| [퀘스트 진행 단계와 경유 NPC 연결](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/03-quest-step-flow-5f05104142.png) | `![퀘스트 진행 단계와 경유 NPC 연결](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/03-quest-step-flow-5f05104142.png)` |
+| [나무 오브젝트의 상호작용과 파괴 연출 설정](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/04-object-interaction-settings-a9abef220a.png) | `![나무 오브젝트의 상호작용과 파괴 연출 설정](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/04-object-interaction-settings-a9abef220a.png)` |
+| [건물 매스의 평면 배치와 동별 계획](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/05-building-mass-floor-plan-a3bbc4b785.png) | `![건물 매스의 평면 배치와 동별 계획](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/05-building-mass-floor-plan-a3bbc4b785.png)` |
+| [조립식 건물의 지붕과 구조 프레임 미리보기](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/06-building-roof-and-frame-preview-8657992e39.png) | `![조립식 건물의 지붕과 구조 프레임 미리보기](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/06-building-roof-and-frame-preview-8657992e39.png)` |
+| [건물 파츠의 재질·스타일·색상 편집](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/07-building-materials-and-color-2cb5a55ac6.png) | `![건물 파츠의 재질·스타일·색상 편집](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/07-building-materials-and-color-2cb5a55ac6.png)` |
+| [NPC의 퀘스트 단계별 대화 연결](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/08-npc-quest-dialogue-link-657578bdc8.png) | `![NPC의 퀘스트 단계별 대화 연결](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/08-npc-quest-dialogue-link-657578bdc8.png)` |
+| [NPC 대화 스텝과 대사 편집](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/09-npc-dialogue-steps-4a22a3dcae.png) | `![NPC 대화 스텝과 대사 편집](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/09-npc-dialogue-steps-4a22a3dcae.png)` |
+| [NPC 상시 말풍선과 표시 시간 설정](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/10-npc-speech-bubble-settings-c90e96b025.png) | `![NPC 상시 말풍선과 표시 시간 설정](https://kkn1125.github.io/blog-assets/images/blog/article/solo-2d-game-development-retrospective/advanced/world-studio/10-npc-speech-bubble-settings-c90e96b025.png)` |
